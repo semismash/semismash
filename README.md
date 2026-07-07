@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there!
+
+Hii, I'm Auritro, but you can call me Smash!
+To be updated soon :3
 
 <!--
 **auritron/auritron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
