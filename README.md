@@ -19,7 +19,7 @@ Currently working on **PikoSystem** - A minimalist self-sustaining ecosystem fro
 ```
 
 ## Software Stack
-Disclaimer: Ordered from most to least experience and usage
+NOTE: Ordered from most to least experience and usage
 ```rust
 - Git & GitHub
 - Visual Studio Code
@@ -30,7 +30,7 @@ Disclaimer: Ordered from most to least experience and usage
 - Xilinx Vivado
 ```
 
-### Thanks for visiting ;P
+### ↓↓↓ Check out my projects down below!!! ↓↓↓
 <!--
 **auritron/auritron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
