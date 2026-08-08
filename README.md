@@ -30,6 +30,9 @@ NOTE: Ordered from most to least experience and usage
 - Xilinx Vivado
 ```
 
+## Contributions
+![GitHub Contribution Snake](https://githubusercontent.com)
+
 ### ↓↓↓ Check out my projects down below!!! ↓↓↓
 <!--
 **auritron/auritron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
