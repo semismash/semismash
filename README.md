@@ -30,7 +30,7 @@ NOTE: Ordered from most to least experience and usage
 - Xilinx Vivado
 ```
 
-## Contributions
+## Contribution Snake :P
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
