@@ -6,7 +6,7 @@ Just an 18 year old Electronics Engineering student who *loves* **Microchips** a
 
 _In any case, this GitHub of mine is a little sanctuary where I like to upload some of the stuff I'm working on, be it a CPU, a Kernel, or my 3am thoughts caused by my inner demons..._  
 
-Currently working on **PikoSystem** - A minimalist self-sustaining ecosystem from _Software to Silicon_ all **built from scratch and integrated seamlessly** among one another! _Stay tuned_ ;)  
+_Stay tuned_ ;)  
 
 ## Language Stack
 ```nasm
