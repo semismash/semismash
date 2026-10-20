@@ -12,7 +12,8 @@ Currently working on **PikoSystem** - A minimalist self-sustaining ecosystem fro
 ```nasm
 - C - Working knowledge
 - C++ - Intermediate prowess
-- Rust - Primary Language~ :P
+- Rust - Workhorse Language :P
+- RV32I & x86 Assembly - Talking to hardware directly
 - Python - Testing and automation
 - Verilog/SystemVerilog - Turning dreams into reality
 - HTML/CSS/Java/SQL - Minimal Knowledge
