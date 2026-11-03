@@ -10,7 +10,7 @@ _Stay tuned_ ;)
 
 ## Language Stack
 ```nasm
-- C - Working knowledge
+- C - Low-level programming, high-level ambitions
 - C++ - Intermediate prowess
 - Rust - Workhorse Language :P
 - RV32I & x86 Assembly - Talking to hardware directly
